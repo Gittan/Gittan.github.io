@@ -1,7 +1,7 @@
 html{
 margin: 0px;
 font-style: italic;
-background: url(../BILDER/bodyback.jpg);
+background: url("../BILDER/bodyback.jpg");
 scroll-behavior: smooth;
 }
 header{
