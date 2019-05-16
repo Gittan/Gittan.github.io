@@ -1,0 +1,163 @@
+html{
+margin: 0px;
+font-style: italic;
+background: url(http://crossbones.org.uk/wp-content/uploads/2016/08/grey-background.jpg);
+scroll-behavior: smooth;
+}
+header{
+  display: flex;
+  font-size: 14px;
+  text-align: left;
+  background-color: #663300;
+  background: url("../BILDER/headerträ.jpeg");
+  width: 100%;
+  height: 60px;
+  position: fixed;
+  top:0px;
+  color: white;
+  }
+
+.wrapper{
+  margin-top: 10%;
+  width: 100%;
+  height: 2260px;
+  margin-bottom: 25px;
+}
+
+#chokladboll{
+  background: rgba(0,0,0,0.85);
+  width: 350px;
+  height: 500px;
+}
+
+.section1{
+  margin-left: 2.5%;
+  margin-right: 2.5%;
+  width: 95%;
+  height: 700px;
+  background-image: url("../BILDER/chokladbollar2-resized2.jpg");
+  background-repeat: no-repeat;
+  border:solid;
+  border-color: black;
+
+  }
+
+
+  #kladdkaka{
+    background: rgba(0,0,0,0.85);
+    width: 350px;
+    height: 600px;
+  }
+
+.section2{
+  margin-top: 40px;
+  margin-right:2.5%;
+  margin-left: 2.5%;
+  margin-bottom: 40px;
+  float: right;
+  width: 95%;
+  height: 700px;
+  background-image: url("../BILDER/kladdkaka2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+
+  border:solid;
+  border-color: black;
+
+}
+#rocky{
+  background: rgba(0,0,0,0.85);
+  width: 350px;
+  height: 375px;
+}
+.section3{
+  margin-top: 40px;
+  margin-right:2.5%;
+  margin-left: 2.5%;
+  margin-bottom: 40px;
+  float: right;
+  width: 95%;
+  height: 700px;
+  background-image: url("../BILDER/rockyroad.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  border:solid;
+  border-color: black;
+
+}
+
+
+
+body{
+  margin: 0%;
+}
+
+footer {
+
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    background-image: url("../BILDER/footer.jpg");
+    background-position: center;
+    background-size: contain;
+    color: white;
+    text-align: center;
+}
+
+ul{
+
+
+}
+
+li {
+  font-size: 22px;
+color: white;
+
+
+}
+h1 {
+margin-left: 5%;
+
+
+
+}
+h2 {
+  font-size: 32px;
+  color: white;
+  margin-left: 10px;
+  margin-top: 0%;
+
+}
+h3{
+font-size: 20px;
+margin-left: 45%;
+
+
+
+}
+a:link{
+color: white;
+
+}
+a:visited{
+color: white;
+}
+
+a:hover{
+color: #b3b3b3;
+text-decoration: underline;
+
+}
+a:active{
+color: Brown;
+
+}
+a{
+
+  text-decoration: none;
+  margin-left: 10px;
+
+}
